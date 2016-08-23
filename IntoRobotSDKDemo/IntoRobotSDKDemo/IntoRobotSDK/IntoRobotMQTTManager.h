@@ -6,7 +6,7 @@
 //  Copyright © 2016年 MOLMC. All rights reserved.
 //
 
-#import "MQTTSessionManager.h"
+#import <MQTTClient/MQTTSessionManager.h>
 #import "IntoRobotSDK.h"
 
 @protocol IntoRobotMQTTManagerDelegate <NSObject>
