@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "IntoRobotSDK"
-  s.version      = "1.0.0"
+  s.version      = "0.1.0"
   s.ios.deployment_target = '8.0'
   s.summary      = "IntoRobotSDK of The Molmc for iOS"
   s.homepage     = "https://github.com/IntoRobot/IntoRobotSDK"
