@@ -6,7 +6,7 @@
 //  Copyright © 2016年 MOLMC. All rights reserved.
 //
 
-#import <AFNetworking/AFNetworking.h>
+#import "AFNetworking.h"
 
 /** 下载进度 */
 typedef void (^DownloadProgressBlock)(NSProgress * downloadProgress);

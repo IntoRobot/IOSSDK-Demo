@@ -19,7 +19,7 @@
 // HTTP请求服务器地址
 #define API_Base_URL [NSString stringWithFormat:@"https://%@", API_Base_DOMAIN]
 
-// MQTT阿里云
+// 阿里云
 #define MQTT_Base_DOMAIN @"iot.intorobot.com"
 
 // MQTT 端口号

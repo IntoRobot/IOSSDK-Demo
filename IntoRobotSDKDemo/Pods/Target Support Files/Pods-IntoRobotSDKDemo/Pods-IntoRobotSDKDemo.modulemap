@@ -1,6 +1,0 @@
-framework module Pods_IntoRobotSDKDemo {
-  umbrella header "Pods-IntoRobotSDKDemo-umbrella.h"
-
-  export *
-  module * { export * }
-}

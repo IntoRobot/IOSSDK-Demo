@@ -95,7 +95,6 @@
     for (IntoDeviceModel *device in self.deviceArray) {
         [mqttManager ml_SubDeviceOnlineStatusWithDeviceId:device.deviceId SubHandle:^(NSDictionary *subscriptions) {}];
     }
-    
 //    // 另一种方法
 //    NSMutableDictionary *subDic = [NSMutableDictionary dictionary];
 //    for (IntoDeviceModel *device in self.deviceArray) {
